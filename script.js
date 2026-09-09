@@ -10,8 +10,8 @@ document.addEventListener('DOMContentLoaded', function () {
      page automatically (fee card + payment breakdown).
      --------------------------------------------------------- */
   const FEE_CONFIG = {
-    totalFee: 29900,       // total course fee in INR
-    registration: 4900,    // admission / registration amount
+    totalFee: 4900,       // total course fee in INR
+    registration: 1500,    // admission / registration amount F
   };
   applyFeeConfig(FEE_CONFIG);
 
